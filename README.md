@@ -39,6 +39,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [E-books and Integrated Library Systems (ILS)](#e-books-and-integrated-library-systems-ils)
   - [Federated Identity/Authentication](#federated-identityauthentication)
   - [Feed Readers](#feed-readers)
+  - [Finances](#finances)
   - [File Sharing and Synchronization](#file-sharing-and-synchronization)
     - [Distributed filesystems](#distributed-filesystems)
     - [File transfer/synchronization](#file-transfersynchronization)
@@ -698,6 +699,15 @@ Some [Groupware](#groupware) solutions also feature file sharing and synchroniza
 
 See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 
+## Finances
+For accounting, invoicing and quoting.
+
+**[`^        back to top        ^`](#)**
+
+_Finances_
+
+- [Webzash](https://webzash.org/) - Self-hosted accounting software ([Source Code](https://github.com/prashants/webzash)) `MIT` `PHP7` `MySQL` `SQLLite` `joomla login`
+- [Invoiceplane](https://www.invoiceplane.com/) - self-hosted open source application for managing your quotes, invoices, clients and payments. ([Demo](https://www.invoiceplane.com/demo), [Source Code](https://github.com/InvoicePlane/InvoicePlane)) `MIT` `PHP5` `MySQL`
 #### File transfer/synchronization
 
 - [Git Annex](https://git-annex.branchable.com/) - File synchronization between computers, servers, external drives. ([Source Code](https://git.joeyh.name/index.cgi/git-annex.git/)) `GPL-3.0` `Haskell`
